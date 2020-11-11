@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">dosActividads</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="mensaje_MainActivity_titulo">Mensaje a enviar Segunda Actividad</string>
+    <string name="mensaje_enviado">Mensaje a enviar a la Segunda Actividad</string>
+    <string name="segunda_actvidad_titulo">Mensaje desde Primera Actividad</string>
+</resources>
